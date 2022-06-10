@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"description":"Uniforme usado por Jesse para frequentar a Sierra Bay\nHighshool.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":395,"name":"Uniforme Escolar","note":"<ge: 1, $Jesse, 0>\n<EN-US Translation>\n[name]:School uniform\n[description]:Uniform used by Jesse to go to Sierra Bay Highschool.\n</EN-US Translation>","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":2,"animationId":0,"description":"Um casaco azul e uma calça preta.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":396,"name":"Roupa Social","note":"<ge: 1, $JesseSocial, 0>\n<EN-US Translation>\n[name]:Social Clothes\n[description]:A blue jacket and black pants.\n</EN-US Translation>","params":[0,0,0,0,0,0,0,0],"price":5,"wtypeId":13}
+]
